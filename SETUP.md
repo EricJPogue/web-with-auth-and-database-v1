@@ -102,6 +102,9 @@ user/repository
 main
 ```
 
+**File public/index.html already exists. Overwrite?
+=No
+
 ## 6. Update Firestore Rules
 
 Replace the rules in the local `firestore.rules` file with the Firestore rules provided in the project README.
