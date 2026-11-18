@@ -5,12 +5,12 @@ import { getFirestore, doc, setDoc, collection, getDocs } from "https://www.gsta
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDMKy56kNulrMpAmajupxiz1WOjAeKyDJw",
+  authDomain: "web-with-auth-db-v1-project.firebaseapp.com",
+  projectId: "web-with-auth-db-v1-project",\
+  storageBucket: "web-with-auth-db-v1-project.firebasestorage.app",
+  messagingSenderId: "64924410740",
+  appId: "1:64924410740:web:f8c3f8d923e8cd5db50221"
 };
 
 // Initialize Firebase
