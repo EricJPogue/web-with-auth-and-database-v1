@@ -11,8 +11,8 @@
 2. Create or select a Firebase project.
 3. Go to **Add App → Web App**.
 4. Copy the Firebase configuration and replace the values in `firebase-config.js`.
-5. Enable **Authentication, Firestore, Storage, and Hosting**.
-6. For Firestore and Storage, start in **Production mode**.
+5. Enable **Authentication, Firestore, and Hosting**.
+6. For Firestore, start in **Production mode**.
 
 ## 3. Clone the Repository
 
